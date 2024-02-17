@@ -1,0 +1,14 @@
+What is intelli?
+    It's a piece of software that we will be using
+    to write java codes just like we use Microsoft Word
+    to write something in english.
+What is java?
+    Java is a programming language that we will be
+    using to communicate with our computer.
+Variable rules:
+    1)we can't use the same name for two or more
+    variables within the same class.
+    2) we can't have spaces in the names of the variables.
+    3) Variable names can't start with numbers and special
+    characters.
+    4) Every line must end with a bracket or semicolon.
