@@ -1,0 +1,8 @@
+String:
+    String is a non-primitive data type that is used to store
+    multiple characters in a variable.
+
+String concatenation:
+    String concatenation allows us to join
+    two strings together.
+
