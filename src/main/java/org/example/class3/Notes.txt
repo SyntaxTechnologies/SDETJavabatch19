@@ -1,0 +1,14 @@
+Compound operators/ShortHandOperators:
+    Helps us perform some calculations by writing shorter code.
+    +=,-=,*=,/=,%=,
+Type Casting:
+    Is converting the data from one type to another type.
+Relational Operator:
+    Help us compare things.
+    ==
+    !=
+    >
+    <
+    >=
+    <=
+If else statements:
