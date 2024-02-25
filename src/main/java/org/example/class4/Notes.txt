@@ -1,0 +1,9 @@
+Shortcuts for If else statements:
+    1) We can click on the starting bracket to check the ending
+     bracket intellij is going to highlight the ending bracket.
+    2) We can double click inside any if condition to highlight all
+    the code under that condition.
+    3) we can shortcuts like Ctrl+Alt+l(windows) or Cmd+opts+l(Mac) to nicely
+    format our code.
+Scanner Class:
+    Scanner class is used to take the input of the user from the keyword.
