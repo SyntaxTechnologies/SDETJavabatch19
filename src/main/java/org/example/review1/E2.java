@@ -1,6 +1,4 @@
-package org.example.review;
-
-import java.net.SocketTimeoutException;
+package org.example.review1;
 
 public class E2 {
     public static void main(String[] args) {

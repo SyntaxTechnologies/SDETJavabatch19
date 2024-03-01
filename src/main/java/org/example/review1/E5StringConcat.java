@@ -1,4 +1,4 @@
-package org.example.review;
+package org.example.review1;
 
 public class E5StringConcat {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.review;
+package org.example.review1;
 
 public class E1Variables {
 }
