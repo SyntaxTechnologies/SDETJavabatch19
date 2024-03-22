@@ -1,0 +1,22 @@
+Nested Loops:
+    A loop inside another loop is called a nested loop.
+    We can Nest any loop inside any other loop.
+Why should we learn about Nested Loops:
+    WE need Nested loops to go through multiple levels
+    of data, for example, we might want to go through the main
+    categories of items, and we might want to go through individual items
+    in each list.
+    We also need Nested loops to process data which have multiple levels
+    like a 2D array or an Excel sheet.
+2D Arrays:
+    2D array is basically a collection of multiple 1d Arrays.
+Why should we learn about 2D arrays:
+    When we want to process the information which is present in the form of
+    rows and columns, we will be using the 2D arrays.
+OOPS:
+    It is just a way of writing code.
+Why should we learn about OOPS?
+    It helps us write large amounts of code easily.
+Class:
+    A Class represents a group of entities with similar attributes and behaviors.
+
