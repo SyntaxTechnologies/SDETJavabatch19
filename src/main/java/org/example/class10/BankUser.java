@@ -8,7 +8,7 @@ public class BankUser {
     int age;
     boolean isSavingsAccount;
 
-    void deposit(){
+   public void deposit(){
         System.out.println("Depositing funds");
     }
 
