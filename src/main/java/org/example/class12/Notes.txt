@@ -1,0 +1,14 @@
+Methods in Java
+    Are blocks of code which contain some java statements. Whenever we
+    call a method, those statements are executed. Methods have names
+    we use these names to call them.
+String Class:
+    UpSide:
+        It is designed to save space.
+    Downside:
+        Its immutable and slow.
+StringBuilder:
+    UpSide:
+        It's Fast and changeable.
+    Downside:
+        Not optimized for space-saving.
