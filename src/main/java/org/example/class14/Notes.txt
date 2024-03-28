@@ -1,0 +1,45 @@
+Types of Variables:
+     There are three types of variables.
+     1) Local
+     2) Instance
+     3) Static/Class Variables
+Local Variables:
+    Those Variables which are created inside a block of code
+    are called local variables, for example, all the variables that we
+    create inside loops, if else statements, methods, switch statements
+    they are all called as local variables.
+Upside:
+    They occupy the memory for the shortest period of time.
+Downside:
+    They can only be accessed inside the block of code where they are
+    created.
+when to use local variables:
+    Always try to use local variables.
+Instance Variables:
+    The variables which are created outside of blocks of code but inside
+    a class are called instance variables.
+Upside:
+    These variables can be used anywhere inside the class.
+Downside:
+    They keep on occupying the memory even if you are done using them.
+When should we use instanced variables?
+    1) When we want to share a variable with all the instance methods of
+    a class.
+    2) When you are planning to create multiple objects of a class, and you
+    know that every object is going to have a different value, then you can
+    also use instance variables.
+
+Static Variables:
+    Static variables have the static keyword before them.
+Upside:
+    Highest visibility can be accessed inside the class in any block of
+    code can be accessed in static or non-static methods. Can be accessed
+    outside of class if coupled with a proper access modifier.
+Downside:
+    They occupy the memory for longest.
+When should we use static variables?
+    When we want to share something with all
+    the objects or the information that stays
+    the same for all the objects, we should store
+    it in static variables.
+
